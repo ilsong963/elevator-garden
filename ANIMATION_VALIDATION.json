@@ -1,0 +1,30 @@
+{
+  "automatedTests": 47,
+  "build": "passed",
+  "browser": "Chrome",
+  "destinations": 9,
+  "pixelComparison": {
+    "sunset": 27522,
+    "campfire": 3027,
+    "rain": 12748,
+    "cat": 3568,
+    "aquarium": 10239,
+    "fireflies": 6381,
+    "snow": 8043,
+    "creek": 13158,
+    "meadow": 13181
+  },
+  "cabinChangedPixelsAllScenes": 0,
+  "mobile": {
+    "viewport": [
+      390,
+      844
+    ],
+    "scene": [
+      358,
+      447.5
+    ],
+    "horizontalOverflow": false
+  },
+  "note": "Pixel counts compare two real Chrome full-page captures; particles and sprite poses both contribute."
+}
